@@ -4,6 +4,10 @@ body{
     font-weight: 800;
 }
 
+h2{
+    font-weight:bold
+}
+
 .card{
     display: flex;
     align-items: center;
